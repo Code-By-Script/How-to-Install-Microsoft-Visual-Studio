@@ -79,14 +79,19 @@ You’re now fully set up to dive into my tutorials with Microsoft Visual Studio
 
 ---
 
-## 💻 **Social Media & More**
+## 💻 **Social Media**
 
 Stay connected for more updates, tutorials, and tips:
 
-| 🎮 **Steam** | 🐦 **X (Twitter)** | 📺 **YouTube** |
-|--------------|----------------|---------------|
-| [🎮Steam](https://store.steampowered.com/) | [🐦Twitter](https://x.com/) | [📺YouTube](https://youtube.com/) |
+## <h3> 🌐 Fruit Switch Social Media: </h3>      
+| **🎮Steam** | **🐦witter** | **📺YouTube** |
+|-----------|-------------|--------------|
+| [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/) | [![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/Fruit_Switch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@FruitSwitch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@FruitSwitchTeam)
 
+## 📚 Code-By-Script Tutorials:
+| **Youtube** | 
+|-----------|
+ [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) | 
 ---
 
 ## 📝 **Thank You for Reading!**
