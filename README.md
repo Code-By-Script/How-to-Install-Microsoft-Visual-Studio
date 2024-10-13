@@ -18,20 +18,19 @@ Before we start, please check the following:
 
 ## 🔍 **Installation Steps**
 
-### Step 1: **Download Microsoft Visual Studio**
+### Step 1: **Download Microsoft Visual Studio Installer**
 
-1. **Visit the Official Website**:  
-   👉 [**Microsoft Visual Studio**](https://visualstudio.microsoft.com/)
+1. **Download the Installer**:  
+   Click the link below to download the **Visual Studio Installer**:
+   - 📥 [**Download Visual Studio Installer**](https://visualstudio.microsoft.com/)
 
 2. **Choose Your Edition**:  
-   🏷️ Select the version that best suits your needs:
-   - 🎓 **Community**: Free for individual developers, students, and open-source projects.
-   - 👥 **Professional**: For small teams and businesses.
-   - 🏢 **Enterprise**: Full version for large teams and complex projects.
+   🏷️ Select the version that best suits your needs. Here, I recommend choosing the **Community** edition for individual developers, students, and open-source projects:
+   - **💚 Community Edition** (Free)  
+   ![Community Edition](https://img.icons8.com/fluency/64/000000/checkmark.png)
 
-3. **Download the Installer**:  
-   📥 Click the **"Download"** button to grab the installer for your chosen edition.  
-   📦 *[Visual Studio Download]*
+3. **Click the "Download" Button**:  
+   📦 After selecting your edition, click the **"Download"** button to grab the installer.
 
 ---
 
