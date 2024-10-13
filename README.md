@@ -106,9 +106,13 @@ Stay connected for more updates, tutorials, and tips:
 
 Check out these amazing resources for more information and advanced coding skills:
 
+If you're looking to deepen your understanding, here are some helpful resources you might find useful:
+
 - 🌟 [Official Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/)
-- 📚 [My Full Coding Playlist on YouTube](https://youtube.com/)
-- 🧑‍🤝‍🧑 [Join the Developer Community](https://developercommunity.visualstudio.com/)
+- 📚 [My Full Coding Playlist on YouTube]([https://youtube.com/](https://www.youtube.com/@CodeByScript))
+- 🚀 [Explore My Projects Here!](https://github.com/Code-By-Script?tab=stars)  
+
+Feel free to explore these if you're interested! 😊
 
 ---
 
