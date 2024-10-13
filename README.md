@@ -30,9 +30,8 @@ Before we start, please check the following:
    - 🏢 **Enterprise**: Full version for large teams and complex projects.
 
 3. **Download the Installer**:  
-   📦 Click the **"Download"** button to grab the installer for your chosen edition.
-
-![Visual Studio Download](https://img.icons8.com/fluency/64/000000/download.png)
+   📥 Click the **"Download"** button to grab the installer for your chosen edition.  
+   📦 *[Visual Studio Download]*
 
 ---
 
@@ -52,8 +51,6 @@ Before we start, please check the following:
 
 3. **Install Components**:  
    ⏳ Visual Studio will now download and install all selected components. Grab a snack while it works its magic! 🍕☕
-
-![Install Visual Studio](https://img.icons8.com/fluency/64/000000/installation.png)
 
 ---
 
@@ -76,13 +73,13 @@ You’re now fully set up to dive into my tutorials with Microsoft Visual Studio
 
 ---
 
-## 💻 **Social Media**
+## 💻 **Social Media & More**
 
 Stay connected for more updates, tutorials, and tips:
 
-| 📺 **YouTube** |
-|--------------|
-|  [![YouTube](https://img.icons8.com/fluency/48/000000/youtube-play.png)](https://youtube.com/) |
+| 🎮 **Steam** | 🐦 **X (Twitter)** | 📺 **YouTube** |
+|--------------|----------------|---------------|
+| [🎮 Steam](https://store.steampowered.com/) | [🐦 X (Twitter)](https://x.com/) | [📺 YouTube](https://youtube.com/) |
 
 ---
 
@@ -104,6 +101,6 @@ Check out these amazing resources for more information and advanced coding skill
 
 ---
 
+## 📊 **GitHub Stats** 
 
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
