@@ -46,18 +46,16 @@ Before we start, please check the following:
 ### Step 2: **Run the Visual Studio Installer**
 
 1. **Open the Installer**:  
-   After downloading, double-click on `vs_installer.exe` to begin the installation! 🖱️
+   After downloading, double-click on `vs_installer.exe` to begin the installation! 🖱️  
 
-2. **Select the .NET Desktop Development Workload**:  
+2. **Choose Your Edition Again**:  
+   🏷️ When the installer opens, you may need to choose your edition again. Select the **Community Edition** if you haven’t already.  
+
+3. **Select the .NET Desktop Development Workload**:  
    ⚙️ **This is critical for my tutorials!**  
-   ✔️ During installation, make sure to select **.NET Desktop Development**.  
-   You can also choose additional workloads depending on your interests, but this one is essential for following my tutorials.
+   ✔️ During installation, make sure to select **.NET Desktop Development**. You can also choose additional workloads depending on your interests, but this one is essential for following my tutorials.
 
-   ✨ Other popular workloads include:
-   - 🌐 **Web & Cloud Development**
-   - 🎮 **Game Development with Unity**
-
-3. **Install Components**:  
+4. **Install Components**:  
    ⏳ Visual Studio will now download and install all selected components. Grab a snack while it works its magic! 🍕☕
 
 ---
@@ -87,7 +85,7 @@ Stay connected for more updates, tutorials, and tips:
 
 | 🎮 **Steam** | 🐦 **X (Twitter)** | 📺 **YouTube** |
 |--------------|----------------|---------------|
-| [🎮 Steam](https://store.steampowered.com/) | [🐦 X (Twitter)](https://x.com/) | [📺 YouTube](https://youtube.com/) |
+| [🎮Steam](https://store.steampowered.com/) | [🐦Twitter](https://x.com/) | [📺YouTube](https://youtube.com/) |
 
 ---
 
@@ -109,6 +107,4 @@ Check out these amazing resources for more information and advanced coding skill
 
 ---
 
-## 📊 **GitHub Stats** 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
