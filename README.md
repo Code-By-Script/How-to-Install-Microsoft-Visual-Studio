@@ -14,9 +14,24 @@ Before we start, please check the following:
 |-------------------------|----------------------------|---------------------|
 | Windows 7 or higher     | Required for download      | Critical for tutorials!  |
 
----
 
-### 🔍 Step 1: **Download Microsoft Visual Studio Installer**
+### 🔌 Step 1: **Install the .NET SDK**
+
+1. **Download the .NET SDK**:  
+   Visit the official [.NET download page](https://dotnet.microsoft.com/download) to get the latest version of the .NET SDK.
+
+2. **Install the SDK**:  
+   - Follow the installation instructions specific to your operating system (Windows, macOS, or Linux).
+
+3. **Verify Installation**:  
+   After installation, open your terminal or command prompt and run:
+   ```bash
+   dotnet --version
+    ```
+
+
+
+### 🔍 Step 2: **Download Microsoft Visual Studio Installer**
 
 1. **Download the Installer**:  
    Click the link below to download the **Visual Studio Installer**:  
@@ -38,7 +53,7 @@ Before we start, please check the following:
 
 ---
 
-### Step 2: **Run the Visual Studio Installer**
+### Step 3: **Run the Visual Studio Installer**
 
 1. **Open the Installer**:  
    After downloading, double-click on `vs_installer.exe` to begin the installation! 🖱️  
@@ -55,7 +70,7 @@ Before we start, please check the following:
 
 ---
 
-## 🚀 **Launching Visual Studio**
+## 🚀 Step 4: **Launching Visual Studio**
 
 1. **Open Visual Studio**:  
    🎉 Once installation is done, launch **Visual Studio** from the Start Menu or desktop.
