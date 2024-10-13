@@ -26,8 +26,7 @@ Before we start, please check the following:
 
 2. **Choose Your Edition**:  
    🏷️ Select the version that best suits your needs. Here, I recommend choosing the **Community** edition for individual developers, students, and open-source projects:
-   - **💚 Community Edition** (Free)  
-   ![Community Edition](https://img.icons8.com/fluency/64/000000/checkmark.png)
+   - **💚 [Community Edition](https://visualstudio.microsoft.com/vs/community/)** (Free)  
 
 3. **Click the "Download" Button**:  
    📦 After selecting your edition, click the **"Download"** button to grab the installer.
