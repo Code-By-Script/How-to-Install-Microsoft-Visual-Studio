@@ -38,8 +38,6 @@ Before we start, please check the following:
 5. **Install Components**:  
    ⏳ Visual Studio will now download and install all selected components. Grab a snack while it works its magic! 🍕☕
 
----
-
 
 ---
 
@@ -109,7 +107,7 @@ Check out these amazing resources for more information and advanced coding skill
 If you're looking to deepen your understanding, here are some helpful resources you might find useful:
 
 - 🌟 [Official Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/)
-- 📚 [My Full Coding Playlist on YouTube]([https://youtube.com/](https://www.youtube.com/@CodeByScript))
+- 📚 [My Coding Tutorials on YouTube](https://www.youtube.com/@CodeByScript)
 - 🚀 [Explore My Projects Here!](https://github.com/Code-By-Script?tab=stars)  
 
 Feel free to explore these if you're interested! 😊
