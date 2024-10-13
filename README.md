@@ -12,11 +12,9 @@ Before we start, please check the following:
 
 | 🖥️ **Operating System** | 🌐 **Internet Connection** | ⚙️ **.NET Desktop** |
 |-------------------------|----------------------------|---------------------|
-| Windows 7 or higher      | Required for download       | Critical for tutorials!  |
+| Windows 7 or higher     | Required for download      | Critical for tutorials!  |
 
 ---
-
-
 
 ### 🔍 Step 1: **Download Microsoft Visual Studio Installer**
 
@@ -37,7 +35,6 @@ Before we start, please check the following:
 
 5. **Install Components**:  
    ⏳ Visual Studio will now download and install all selected components. Grab a snack while it works its magic! 🍕☕
-
 
 ---
 
@@ -81,15 +78,15 @@ You’re now fully set up to dive into my tutorials with Microsoft Visual Studio
 
 Stay connected for more updates, tutorials, and tips:
 
-## <h3> 🌐 Fruit Switch Social Media: </h3>      
+### 🌐 Fruit Switch Social Media:      
 | **🎮Steam** | **🐦Twitter** | **📺YouTube** |
 |-----------|-------------|--------------|
 | [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/) | [![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/Fruit_Switch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@FruitSwitchTeam) | 
 
-## 📚 Code-By-Script Tutorials:
+### 📚 Code-By-Script Tutorials:
 | **Youtube** | 
 |-----------|
- [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) | 
+| [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) | 
 ---
 
 ## 📝 **Thank You for Reading!**
@@ -113,5 +110,3 @@ If you're looking to deepen your understanding, here are some helpful resources 
 Feel free to explore these if you're interested! 😊
 
 ---
-
-
