@@ -22,7 +22,7 @@ Before we start, please check the following:
 
 1. **Download the Installer**:  
    Click the link below to download the **Visual Studio Installer**:  
-   - 📥 [**Download Visual Studio Installer**](https://visualstudio.microsoft.com/)  
+   - 📥 [**Download Visual Studio Installer**](https://visualstudio.microsoft.com/downloads/)  
 
 2. **Choose Your Edition**:  
    🏷️ After clicking the link, you'll be prompted to choose between three editions: **Community**, **Professional**, and **Enterprise**.  
